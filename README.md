@@ -3,12 +3,12 @@
 # Harii Sankar S - AI & Data Science Portfolio
 
 ## About Me
-Hello! I'm **Harii Sankar S**, a passionate AI and Data Science enthusiast specializing in building cutting-edge applications in **Generative AI**, **Machine Learning**, and **Deep Learning** domains. My goal is to create impactful solutions in fields such as healthcare, agriculture, and AI-driven diagnostics.
+Hello! I'm **Harii Sankar S**, a passionate AI and Data Science enthusiast specializing in building cutting-edge applications in **Generative AI**, **Machine Learning**, and **Deep Learning** domains. My goal is to create impactful solutions in every field possible and facilitate AI-driven diagnostics.
 
 ## Key Highlights
-- Expertise in **Large Language Models (LLMs)**, fine-tuning, and integration into real-world applications.
+- Expertise in **Large Language Models (LLMs)**, fine-tuning, Rag, AI-Agents and integration into real-world applications.
 - Experience with AI-based solutions for healthcare, agriculture, and natural product identification.
-- Strong technical background in Python, PyTorch, TensorFlow, and React Native.
+- Strong technical background in Python, PyTorch, TensorFlow, Llamaindex, Langchain and Langraph.
 
 ## Projects
 ### 1. **Harvest Haven**
