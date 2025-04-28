@@ -9,11 +9,7 @@
 
 Innovative AI & LLM Engineer specializing in **advanced LLM architectures, RAG systems, and autonomous AI agents**. Passionate about developing enterprise-grade AI solutions that bridge the gap between cutting-edge research and practical applications. Experienced in orchestrating complex multi-agent systems and implementing production-ready GenAI pipelines.
 
-<!-- GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
-</div>
+
 
 ## 🚀 Live Projects
 
