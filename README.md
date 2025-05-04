@@ -1,9 +1,9 @@
 # 👨‍💻 Harii Sankar S | LLM & AI Systems Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harii-sankar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harii-sankar-s-a0b11925a/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:hariisankar.s2022ai-ds@sece.ac.in)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/YourGitHubUsername)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1450+-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/YourLeetCodeUsername/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/HarxSan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1450+-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/harxsan/)
 
 ## 📊 Professional Summary
 **AI Systems Engineer** with proven expertise in developing production-grade LLM applications and autonomous AI agents. Specialized in RAG architectures, agentic workflows, and enterprise AI deployment. Demonstrated ability to architect scalable ML systems that deliver measurable business value through innovative technical solutions.
