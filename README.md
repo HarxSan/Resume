@@ -15,7 +15,7 @@
 - **RAG Systems**: Vector retrieval pipelines, semantic search, knowledge distillation
 - **Model Optimization**: Quantization, PEFT, LoRA/QLoRA, knowledge distillation
 - **ML Frameworks**: PyTorch 2.0+, TensorFlow 2.x, Hugging Face Transformers
-- **Cloud Deployment**: AWS, Docker containerization, API development
+- **Cloud Deployment**: AWS, Render, Docker containerization, API development
 
 ## 💹 Selected Accomplishments
 - Reduced LLM inference latency by 65% while maintaining accuracy through custom quantization techniques
